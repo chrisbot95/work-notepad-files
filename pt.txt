@@ -1,0 +1,59 @@
+===== medbridge =====
+Add("Exercises", "seated piriformis stretch
+supine double knee to chest
+supine lower trunk rotation
+side plank on knees
+bird dog
+supine bridge with resistance band
+plank on knees
+supine bridge with mini swiss ball
+hamstring towel stretch
+full superman on table
+quadruped cat cow
+curl up with reach
+
+===== notes =====
+clams
+arm and leg raise
+weighted overhead reach
+double knee fallout
+side leg lifts
+situps
+push ups
+pull ups
+squats
+
+===== rn =====
+front leg stretch
+sonic stretch
+
+
+===== for code =====
+//===== medbridge =====
+Add("Exercises", "seated piriformis stretch");
+Add("Exercises", "supine double knee to chest");
+Add("Exercises", "supine lower trunk rotation");
+Add("Exercises", "side plank on knees");
+Add("Exercises", "bird dog");
+Add("Exercises", "supine bridge with resistance band");
+Add("Exercises", "plank on knees");
+Add("Exercises", "supine bridge with mini swiss ball");
+Add("Exercises", "hamstring towel stretch");
+Add("Exercises", "full superman on table");
+Add("Exercises", "quadruped cat cow");
+Add("Exercises", "curl up with reach");
+
+// from notes
+Add("Exercises", "clams");
+Add("Exercises", "arm and leg raise");
+Add("Exercises", "weighted overhead reach");
+Add("Exercises", "double knee fallout");
+Add("Exercises", "side leg lifts");
+Add("Exercises", "situps");
+Add("Exercises", "push ups");
+Add("Exercises", "pull ups");
+Add("Exercises", "squats");
+
+//===== rn =====
+Add("Exercises", "front leg stretch");
+Add("Exercises", "sonic stretch");

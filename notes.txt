@@ -1,0 +1,30 @@
+renaming pcs
+fixed calendar app - difference between online exchange(not caching files, slow, laggy) and connected to exchange
+	file > account settings > change email
+powerwashing
+
+When someone is having trouble getting into outlook
+	are they new? new cellphone?
+	to reset MFA ask thomas or adika
+	install microsoft authenticator app.
+
+information for setting up computer
+	name of pc when setting up is custom
+	security question answers are toddharris
+	domain is copiague.edu > sign into your account for authentication
+	set up programs from the techstore
+
+How to manually add a printer using its IP address
+	look up the printer in MMC to get its IP address
+	download the corresponding printer driver
+	run the driver installer, which will prompt you for the ip address.
+
+If a student's chromebook is not working, we don't track them down, they have to bring it to chromebook lobby or mini main desk
+
+If a printer seems to be working fine, you added it via IP, then you should try toggling the snmp settings in the print server.
+
+password complexity: min 12 chars, cap letter, number, special char, cannot have username as part of, cannot be something previously used.
+
+subs use a shared account to access google classrooms, which gives them access to all classes
+
+password to get into bathroom: 40104010#

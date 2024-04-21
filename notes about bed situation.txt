@@ -1,0 +1,24 @@
+Okay lets brainstorm this idea
+I think what makes the most sense is:
+we need a flat but plush base, its specific plushness isn't necessarily important, but its ability to stay flat around the edges of my body are important, it means that any one part of my body won't affect the angles of the rest of the bed. Obviously, memory foam would be the absolute best for this, at least as far as I know. regular spring mattresses are actually NOT good for this, and so what we have is probably not good for that fix, it may be why the pillow trick doesn't work so well in my current situation. The one alternative to both of those is regular foam, which is what I had at new paltz, and is the only bed known to enable the pillow trick. For now, it seems that foam is the way to go, specifically because memory foam is really expensive, and we are not really concerned with the shape forming nature of memory foam, since we know that shape forming doesn't work for us. Either way, what we are looking for is a base whose angles are not disturbed by the objects on the bed, and it seems that foam and memory foam both may be able to serve that purpose. Therefore, when we get home, what we should do is test the mattress we have, see if the angles change based on whats on the bed. Then, the only other mattress we have at our disposal to try without heading to pcrichards or somewhere else is aunt terry's memory foam mattress upstairs. This testing doesn't necessarily prove anything in and of itself though. We ultimately need a lot of data here to make our educated guess for a solution. It would be best to get data for the following:
+spring bed{
+	michele topper
+	pillow
+	memory foam topper
+
+aunt terry memory foam{
+	michele topper
+	pillow
+	memory foam topper
+
+
+So far, we have tried:
+spring bed:
+medium pillow
+rubber topper:
+	hanging off top (single and double)
+	hanging off bottom (single and double)
+	tripled
+	with medium pillow
+
+my most educated guess at the moment is that we should get some sort of big foam pillow, and use that under my waist at night.
